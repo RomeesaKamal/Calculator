@@ -72,7 +72,7 @@ The app is designed to be fast, lightweight, and accessible, making it a practic
 ### Links
 
 - Solution URL: [ solution URL here](https://github.com/RomeesaKamal/Calculator)
-- Live Site URL: [ live site URL here]( https://romeesakamal.github.io/Calculator/)
+- Live Site URL: [ live site URL here](https://romeesakamal.github.io/Calculator/)
 
 ## My process
 
