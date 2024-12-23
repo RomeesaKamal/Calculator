@@ -79,14 +79,10 @@ The app is designed to be fast, lightweight, and accessible, making it a practic
 ### Built with
 
 
-**HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax and fetching od API.
+**HTML/CSS & JS best practices:** Correct use of tags, elements, properties of CSS.
 
 **GitHub flow:** Correct use of Branches for deployment and features development.
 
-### Lessons Learned
-- Working with APIs using fetch().
-- Improving DOM manipulation skills.
-- Building a responsive and interactive user interface.
 
 ### Continued Development
 
