@@ -1,5 +1,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
+![Design preview for the Calculator](./all-devices-white.png)
+
 
 # Calculator
 
@@ -13,9 +15,7 @@ The Calculator is a simple yet powerful tool that allows users to perform basic 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -64,10 +64,6 @@ The app is designed to be fast, lightweight, and accessible, making it a practic
 - **HTML**: Structuring the content of the app.
 - **CSS**: Styling the layout and making it visually appealing.
 - **JavaScript**: Fetching data from the API and dynamically updating the UI.
-
-### Screenshot
-
-![Design preview for the Calculator](./calculator-design.png)
 
 ### Links
 
